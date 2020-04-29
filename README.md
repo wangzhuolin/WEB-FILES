@@ -64,9 +64,8 @@ GitHub: [tcb-demo-files](https://github.com/TencentCloudBase/Cloudbase-Examples/
 - 确定本机已经安装了nodejs和npm，如果没有安装请自行下载安装
 - 命令行进入cloudfunctions/functions下的每个文件目录，每个目录均执行一遍以下代码：
 ``` bash
-$ npm install tcb-admin-node
+$ npm install
 ```
-注意：getFile文件夹下需要安装request
 
 ##### 五、上传并部署云函数
 
